@@ -1,0 +1,15 @@
+ShugoData::__set_state(array(
+   'dbh' => 
+  PDO::__set_state(array(
+  )),
+))
+ShugoData::__set_state(array(
+   'dbh' => 
+  PDO::__set_state(array(
+  )),
+))
+ShugoData::__set_state(array(
+   'dbh' => 
+  PDO::__set_state(array(
+  )),
+))

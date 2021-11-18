@@ -1,0 +1,10 @@
+.footer{
+    position: static;
+    bottom: auto;
+}
+html,body{
+    height: 100%;
+}
+.container{
+    height: 85%;
+}

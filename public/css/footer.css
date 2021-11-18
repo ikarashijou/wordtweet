@@ -1,0 +1,10 @@
+.footer{
+    width: 100%;
+    position: absolute;/*←絶対位置*/
+    bottom: 0; /*下に固定*/
+    display: flex;
+    justify-content: center;
+}
+.font-size{
+    font-size: 120%;
+}

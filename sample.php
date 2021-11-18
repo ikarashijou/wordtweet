@@ -8,10 +8,10 @@ require_once('/word/Contorollers/Controller.php');
 $Controller = new Controller();
 
 // Twitter APIを利用するための認証情報。xxxxxxxxの箇所にそれぞれの情報をセット
-$CK = '************';
-$CS = '************';
-$AS = '***********';
-$AT = '***********';
+$CK = '************'; // Consumer Keyをセット
+$CS = '************'; //Consumer Secretをセット
+$AT = '***********'; //Access Tokenをセット
+$AS = '***********'; //Access Token Secretをセット
 
 // TwitterOAuthクラスのインスタンスを作成
 $connect = new TwitterOAuth( $CK, $CS, $AT, $AS );
